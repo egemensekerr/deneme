@@ -1,8 +1,5 @@
-Youtube Asreaper
--------
+**Alt yapıyı çalmaya kalkışan arkadaşlara söyliyim korona döneminde işim gücüm yok sizinle uğraşırım!**
 
-MaximusBoys Bot List Site Altyapısı 
------
+**Yapımcı ✩ Shelley Hennigᴹᴬᴳ#0761**
 
-[Youtube](https://www.youtube.com/asreaper)
-[Discord](https://discord.gg/EjA9mkYdGd)
+**Geliştirici: LoZ 'Be℣™#0590**
