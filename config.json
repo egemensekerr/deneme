@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [806509073264672798],
+        "ACTIVITY_TEXT": "Welcome to ৡ Monika",
+        "GUILD_ID": "810430590918328351",
+        "VOICE_CHANNEL": "811884572122808342",
+        "MIN_STAFF_ROLE": "810435118136557608"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "ODExOTIyMTg5NjM2OTkzMDY1.YC5Pdg.9OkmqOcXInJndOGYUkt_l0GcbkU"
+}
